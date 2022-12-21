@@ -49,4 +49,4 @@
 <code> <img title="Heroku" alt="heroku" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
 </br></br>
 
-⚙️ From [@IsmaelCamna](https://github.com/IsmaelCamna)
+⚙️ From [@CamarenaAI](https://github.com/CamarenaAI)
