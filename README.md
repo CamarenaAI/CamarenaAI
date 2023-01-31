@@ -1,10 +1,11 @@
 <h1>👋 Hi, I'm Alonso Ismael Camarena</h1>
 
+<img src="https://www.uv.mx/secretariaacademica/files/2020/07/innovacion-virtual.png" height="150" width="250" align="right">
 <h3>Mechatronic Engineer at TecMM 🤖<br>
-    Explorer at LaunchX 🚀<br>
     Viajero at Innovacion Virtual<br>
-<br><img align='' src="https://www.uv.mx/secretariaacademica/files/2020/07/innovacion-virtual.png" height="100" width="150">
-<h3>
+    Explorer at LaunchX 🚀<br>
+<h3><br>
+
 
 <h2>:handshake: Connect with me</h2>
 
