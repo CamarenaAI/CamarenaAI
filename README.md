@@ -48,10 +48,4 @@
 <h2>📊 GitHub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=CamarenaAI&show_icons=true&theme=tokyonight" />
 
-<h2>🔨 Projects</h2>
-
-- [CanSat](https://github.com/CamarenaAI/CanSat) - Mini canned satellite
-- [LaunchX Program](https://github.com/OceanHackers/HackTheOcean) - Hackathon: Hack The Ocean
-- [DataViz Challenge](https://github.com/CamarenaAI/Programacion-Python/tree/main/Proyectos/Dataviz%20Challenge) - Visualization of climate data
-
 ⚙️ From [@CamarenaAI](https://github.com/CamarenaAI)
