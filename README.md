@@ -17,7 +17,7 @@
 <h2>👨‍💻 About Me</h2>
 <h3>🎓 Education</h3>
 
-- 💻 Master's Degree in Big Data (In Progress)  
+- 💻 Master's Degree in Big Data 
 - 🤖 Mechatronic Engineer
 
 <h3>🌱 I’m currently learning</h3>
